@@ -1,0 +1,6 @@
+text,label
+"The delivery arrived early.",positive
+"The item was broken when it arrived.",negative
+"The package arrived on Tuesday.",neutral
+"I am happy with the service.",positive
+"The support team did not solve my problem.",negative
